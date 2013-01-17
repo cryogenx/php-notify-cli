@@ -25,3 +25,4 @@ Usage:
     from a bash prompt
 
     simply: php cli_notify.php 'type**' 'prowl api key' 'nma api key' 'appname***' 'event title ✝' 'event desc ✝✝' 'priority ☥' 'url ☥☥'
+    
